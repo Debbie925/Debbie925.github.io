@@ -17,7 +17,7 @@ repo: https://github.com/rlue/jekyll-solana # used in footer
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
 nav_menu:
   - name: 网页设计作品集
-    url: /http://wenda.so.com/q/1403714882502744
+    url: https://debbie925.github.io/Debbie9925.github.io/
     icon: /i/icons.svg#posts # icons should be 24x24 px.
   - name: 信息可视化作品集
     url: 
