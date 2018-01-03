@@ -2,11 +2,10 @@
 # Theme Customization #
 #######################
 
-title: J. Bravo                             # used in <title> tag & site header
-author: Johnny Bravo                        # used in a <meta> tag & /feed.xml
+title: 蔡力争的个人网站                             # used in <title> tag & site header
+author: 蔡力争                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
-  Hello 911 emergency, there's a handsome guy in my house!
-  Oh wait a second, cancel that. It's only me.
+  保持对所做之事的适度渴望，是一切方法得以实施的前提
 slogan: Showtime!                           # used in site header, beside title
 avatar: /i/avatar.png                       # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
@@ -17,17 +16,17 @@ repo: https://github.com/rlue/jekyll-solana # used in footer
 # Objects listed here will appear in the main nav menu.
 # Exceeding four items may cause problems on the desktop (>900px wide) layout.
 nav_menu:
-  - name: Posts
-    url: /
+  - name: 网页设计作品集
+    url: /https://debbie925.github.io/Debbie9925.github.io/
     icon: /i/icons.svg#posts # icons should be 24x24 px.
-  - name: Projects
+  - name: 信息可视化作品集
     url: /projects
     icon: /i/icons.svg#portfolio
-  - name: GitHub
+  - name: web学习笔记
     url: https://github.com/rlue/
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
-  - name: Contact
+  - name: 信息可视化笔记
     scheme: mailto      # these keys enable email obfuscation.
     handle: hello       # you know, to protect you from bots. (handle and domain
     domain: github.com  # are separated in case bots crawl GitHub repos, too.)
