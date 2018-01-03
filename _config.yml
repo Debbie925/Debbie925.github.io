@@ -20,7 +20,7 @@ nav_menu:
     url: https://debbie925.github.io/Debbie9925.github.io/
     icon: /i/icons.svg#posts # icons should be 24x24 px.
   - name: 信息可视化作品集
-    url: 
+    url: /https://debbie925.github.io/infovis/index.html
     icon: /i/icons.svg#portfolio
   - name: web学习笔记
     url: /projects
