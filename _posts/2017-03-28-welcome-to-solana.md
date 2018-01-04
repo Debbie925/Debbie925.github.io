@@ -23,10 +23,16 @@ description: 描述。
 4.color：水平线颜色
 5.noshade：水平线不出现阴影
 
-<body>
-  <center>水平分割线</senter>
-  <hr size="6" width="10%" align="center" noshade color=red>
-  <p>balbiu</p>
-  <hr>
-</body>
+
+<html>
+  <head>
+    <title>didi</title>
+  </head>
+  <body>
+    <center>水平分割线</senter>
+    <hr size="6" width="10%" align="center" noshade color=red>
+    <p>balbiu</p>
+    <hr>
+  </body>
+</heml>
   
