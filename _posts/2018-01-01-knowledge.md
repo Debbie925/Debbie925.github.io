@@ -26,10 +26,7 @@ description: 描述。
 
 
 #比如在body里设置
+size="6" width="10%" align="center" noshade color=red
 
-
-    <center>水平分割线</center>
-    <hr size="6" width="10%" align="center" noshade color=red>
-    <hr>
 
 
