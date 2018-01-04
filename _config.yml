@@ -34,9 +34,9 @@ nav_menu:
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: Solana
+  - title: 有道云笔记
     teaser: A responsive blog template written in Sass and vanilla JavaScript.
-    url: https://github.com/rlue/jekyll-solana
+    url: http://note.youdao.com/noteshare?id=4a53f80e95cd6fb9043056ab3f4e6cdf
     role: Creator
     category: Frontend Dev
   - title: Cortana
