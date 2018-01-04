@@ -11,4 +11,4 @@ description: 描述。
 水平线可以作为段落与段落之前的分隔线，使得文档结构清晰，层次分明。
 
 基本语法：<hr width = " "   size = " "  color = " "   align = " " >
-![image](https://debbie925.github.io/i/avatar.png)
+![image](Debbie925.github.io/img/20160413065218915.jpg)
