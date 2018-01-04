@@ -27,7 +27,7 @@ nav_menu:
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: 信息可视化笔记
-    url:  Debbie925.github.io/posts/infovis/     # these keys enable email obfuscation.
+    url:  /projects   # these keys enable email obfuscation.
     icon: /i/icons.svg#email     # you know, to protect you from bots. (handle and domain
     outbound: true  # are separated in case bots crawl GitHub repos, too.)
     
