@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  如何显示水平分割线
-teaser: These sample posts are provided as a template for creating your own content.
+teaser: 关于水平分隔线
 category: RWD
 tags: [水平分割线]
 categories: 分类
