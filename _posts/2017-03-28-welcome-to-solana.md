@@ -24,15 +24,12 @@ description: 描述。
 5.noshade：水平线不出现阴影
 
 
-<html>
-  <head>
-    <title>didi</title>
-  </head>
+
+#比如在<body>里设置
+
   <body>
     <center>水平分割线</senter>
     <hr size="6" width="10%" align="center" noshade color=red>
-    <p>balbiu</p>
     <hr>
   </body>
-</heml>
-  
+
