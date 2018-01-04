@@ -1,10 +1,24 @@
 ---
 layout: post
-title: 如何显示水平分割线
+title: 关于作者
 tags:
-- 水平分割线
-- 属性
+-作者
 categories: 分类
-description: <img="20160413065218915.jpg">  水平线可以作为段落与段落之前的分隔线，使得文档结构清晰，层次分明。
+description: 
 
 ---
+
+一枚网新与新媒体的学生
+
+ ...(｡•ˇ‸ˇ•｡) ...
+ 
+目前已学了新媒体概论、传播学概论、网络与新媒体技术、数字图像处理、Python语言等等
+在学网页设计与制作、信息可视化设计、摄像基础。
+前进！前进！永不怯步！
+Motto：让优秀成为一种习惯！
+
+(ง •̀_•́)ง
+专业详情：[c-code](http://wcy.nfu.edu.cn/zh/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/%E6%96%B0%E9%97%BB%E4%B8%8E%E6%96%B0%E5%AA%92%E4%BD%93%E7%B3%BB/)
+ 
+ ![image](https://debbie925.github.io/img/people.gif)
+ 
