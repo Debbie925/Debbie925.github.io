@@ -34,11 +34,11 @@ nav_menu:
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: 有道云笔记
-    teaser: A responsive blog template written in Sass and vanilla JavaScript.
-    url: http://note.youdao.com/noteshare?id=4a53f80e95cd6fb9043056ab3f4e6cdf
+  - title: 如何显示水平分割线
+    teaser: 如何建立一个水平分割线
+    url: https://debbie925.github.io/posts/rwd/2017-01-02-C
     role: Creator
-    category: Frontend Dev
+    category: RWD
   - title: Cortana
     teaser: A talking robot. Now available on Google Play?
     url: https://play.google.com/store/apps/details?id=com.microsoft.cortana
