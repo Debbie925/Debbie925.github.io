@@ -37,13 +37,13 @@ projects:
   - title: 如何显示水平分割线
     teaser: 如何建立一个水平分割线
     url: https://debbie925.github.io/posts/rwd/2017-01-02-C
-    role: Creator
+    role: Debbie
     category: RWD
-  - title: Cortana
-    teaser: A talking robot. Now available on Google Play?
-    url: https://play.google.com/store/apps/details?id=com.microsoft.cortana
-    role: Core Team
-    category: NLP
+  - title: CSS3的动画
+    teaser: 关于CSS的动画
+    url: https://debbie925.github.io/posts/rwd/2018-01-01-D
+    role: Debbie
+    category: RWD
   - title: Rihanna
     teaser: Possibly another robot. Also available on Google Play.
     url: https://play.google.com/store/music/artist/Rihanna?id=Arcw2m2ih45qntv3fufub25tyhu
