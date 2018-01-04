@@ -25,11 +25,11 @@ description: 描述。
 
 
 
-#比如在<body>里设置
+#比如在body里设置
 
-  <body>
-    <center>水平分割线</senter>
+
+    <center>水平分割线</center>
     <hr size="6" width="10%" align="center" noshade color=red>
     <hr>
-  </body>
+
 
