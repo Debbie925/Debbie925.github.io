@@ -27,10 +27,10 @@ nav_menu:
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: 信息可视化笔记
-    scheme: mailto      # these keys enable email obfuscation.
-    handle: hello       # you know, to protect you from bots. (handle and domain
-    domain: github.com  # are separated in case bots crawl GitHub repos, too.)
-    icon: /i/icons.svg#email
+    url:  Debbie925.github.io/_posts/infovis/有道.md     # these keys enable email obfuscation.
+    icon: /i/icons.svg#email     # you know, to protect you from bots. (handle and domain
+    outbound: true  # are separated in case bots crawl GitHub repos, too.)
+    
 
 # Objects listed here will appear on the /projects.html page.
 projects:
