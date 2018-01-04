@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Welcome to Solana
-date:2018-01-01
 teaser: These sample posts are provided as a template for creating your own content.
 category: RWD
 tags: [markdown, workflow, foss]
